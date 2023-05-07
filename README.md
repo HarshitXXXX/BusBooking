@@ -59,11 +59,8 @@ Mysql workbench
 ### Installing
 
 1. Press the *Fork* button (top right the page) to save copy of this project on your account.
+
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
-
-
-https://github.com/MaheshGadhe2001/busbooking-project-2  Give the example
-
 
 3.Imported it in NetBean IDE or any other Java IDE.
 
